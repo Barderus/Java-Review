@@ -1,7 +1,9 @@
+package Basics;
+
 public class printf {
     public static void main(String[] args) {
 
-        // printf = allows for formating
+        // Basics.printf = allows for formating
 
         // %d allows you place the value anywhere
         System.out.printf("This is a format string %d", 123);
